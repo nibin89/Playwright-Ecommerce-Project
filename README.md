@@ -1,5 +1,3 @@
-# Playwright-Ecommerce-Project
-Ecommerce e2e Project
 
 # Playwright E-commerce Automation Project
 
